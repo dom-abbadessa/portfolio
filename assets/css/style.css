@@ -496,6 +496,10 @@ img{
     .nav__toggle{
         display: none;
     }
+    
+    .nav__link{
+        color: var(--white-color);
+    }
 
     .bd-grid{
         margin-left: auto;
